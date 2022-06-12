@@ -1562,6 +1562,18 @@
     },
 
     {
+        "name": "Blueprism",
+        "url": "https://www.blueprism.com/privacy-policy/",
+        "difficulty": "hard",
+        "notes": "Contact their dpc via 'privacy@blueprism.com' and request deletion of your account.",
+        "email": "privacy@blueprism.com",
+        "email_body": "I have a registered account in your database. My registered account name is 'XXXXXX' and my registered email address is 'XXX@XXXXXX.XX'. As I won't use your services anymore, I would like to request the deletion of my account from your database completely. If there is any notification or marketing communication email registered with this account, please kindly help me to remove them completely. I would appreciate if you can send me a confirmation once the deletion of my account from your database is done. Thank you for your help.",
+        "domains": [
+            "blueprism.com"
+        ]
+    },
+
+    {
         "name": "Board Game Arena",
         "url": "https://boardgamearena.com/preferences?section=account",
         "difficulty": "easy",
